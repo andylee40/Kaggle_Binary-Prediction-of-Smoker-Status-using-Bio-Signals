@@ -19,6 +19,4 @@ Submissions are evaluated on **area under the ROC curve** between the predicted 
 
 I ranked 657th out of 1910 participants, which means I was in the **top 34.6%**.
 
-![output (2)](https://hackmd.io/_uploads/HJoyCdLLyl.png)
-
-![截圖 2025-01-04 下午4.59.31](https://hackmd.io/_uploads/BylFu_UIyg.png)
+![image](https://github.com/andylee40/Kaggle_Binary-Prediction-of-Smoker-Status-using-Bio-Signals/blob/main/Rank2.png))
