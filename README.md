@@ -19,4 +19,4 @@ Submissions are evaluated on **area under the ROC curve** between the predicted 
 
 I ranked 657th out of 1910 participants, which means I was in the **top 34.6%**.
 
-![image](https://github.com/andylee40/Kaggle_Binary-Prediction-of-Smoker-Status-using-Bio-Signals/blob/main/Rank2.png))
+![image](https://github.com/andylee40/Kaggle_Binary-Prediction-of-Smoker-Status-using-Bio-Signals/blob/main/Rank2.png)
